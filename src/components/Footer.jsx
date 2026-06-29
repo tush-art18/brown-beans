@@ -26,7 +26,7 @@ const Footer = () => {
             <div className="info2">
                 <h3>Contact Us</h3>
                 <p>📍 123 Brew Street, Coffee, Ameerpeth</p>
-                <p>📞 +91 12345 67890</p>
+                <p>📞 +91 98765 43210</p>
                 <p>✉️ hello@brownbeans.in</p>
             </div>
         </div>
